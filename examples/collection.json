@@ -2,7 +2,7 @@
   "stac_version": "1.0.0",
   "stac_extensions": [
     "https://stac-extensions.github.io/item-assets/v1.0.0/schema.json",
-    "https://raw.githubusercontent.com/dchandan/stac-extension-cmip6/main/json-schema/schema.json"
+    "https://raw.githubusercontent.com/dchandan/stac-extension-cmip6/v1.0.0/json-schema/schema.json"
   ],
   "type": "Collection",
   "id": "collection",
